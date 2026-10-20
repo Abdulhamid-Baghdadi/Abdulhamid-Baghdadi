@@ -84,5 +84,11 @@ A hunter TurtleBot chases <i>n</i> robots through a maze: breadth-first search p
 Adds two panes to the Claude desktop app: a commit graph of the current repo (branch lanes, worktrees, commit and push) and a portfolio with one activity card per local project. It runs local git only, and its tests run against a mocked engine.<br>
 <sub><b>TypeScript · TSX · SVG rendering · Claude Code mod API</b></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://github.com/Abdulhamid-Baghdadi/kalman-ekf-wheeled-robot"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/kalman-ekf-wheeled-robot/main/docs/kf_vs_ekf_gazebo_rviz.gif" alt="KF and EKF estimating a ROSbot's pose live: Gazebo on the left, RViz with paths and covariance ellipses on the right" width="100%"></a>
+<h3><a href="https://github.com/Abdulhamid-Baghdadi/kalman-ekf-wheeled-robot">Kalman vs. Extended Kalman Filter (ROS + Gazebo)</a></h3>
+Pose estimation for a wheeled ROSbot: a linear KF and an EKF linearised with Jacobians fuse velocity commands with noisy odometry, running side by side in Gazebo and RViz. The recording also shows where both struggle: at corners, where the motion model doesn't match the robot. Jacobians derived in MATLAB; Docker setup reproduces the video. Solo master's project.<br>
+<sub><b>C++ · Eigen · ROS Noetic · Gazebo · MATLAB</b></sub>
+</td>
 </tr>
 </table>
