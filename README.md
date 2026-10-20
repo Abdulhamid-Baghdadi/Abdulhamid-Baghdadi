@@ -38,7 +38,7 @@ Adds two panes to the Claude desktop app: a commit graph of the current repo (br
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Abdulhamid-Baghdadi/double-scara-robot-ros"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/double-scara-robot-ros/master/docs/images/linkage.gif" alt="Double SCARA linkage animation" width="100%"></a>
+<a href="https://github.com/Abdulhamid-Baghdadi/double-scara-robot-ros"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/double-scara-robot-ros/master/docs/images/hero.gif" alt="Animated 3D model of the double SCARA robot tracing a figure-eight" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/double-scara-robot-ros">Double SCARA Robot (ROS)</a></h3>
 Five-bar parallel robot: forward and inverse kinematics, a Shapely collision checker, URDF + RViz simulation, and an Arduino <code>rosserial</code> bridge to the real servos.<br>
 <sub><b>C++ · Python · ROS Melodic · Arduino</b></sub>
