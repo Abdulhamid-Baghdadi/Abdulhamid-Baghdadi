@@ -51,7 +51,13 @@ Solves the 12-faced Megaminx puzzle with a staged breadth-first search over 116 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+<a href="https://github.com/Abdulhamid-Baghdadi/robot-milling-dust-extractor"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/robot-milling-dust-extractor/main/media/printed-prototype.jpg" alt="3D-printed motorised dust extractor prototype" width="100%"></a>
+<h3><a href="https://github.com/Abdulhamid-Baghdadi/robot-milling-dust-extractor">Robot Milling Dust Extractor</a></h3>
+A motorised dust and chip extractor for a KUKA robot milling cell. The robot sets the inlet height to match the tool length, and load cells make it stop or retract on collision. Solo master's project: SolidWorks design, 3D printing, electronics and ESP32/Arduino firmware.<br>
+<sub><b>ESP32 · Arduino · HX711 load cells · SolidWorks · Eagle</b></sub>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/library-studio">Library Studio</a></h3>
 A workbench for a publication library kept as Obsidian notes: topic clusters (TF-IDF + Leiden consensus clustering), a citation network from OpenAlex, metadata enrichment, and export to Excel and BibTeX. <a href="https://abdulhamid-baghdadi.github.io/library-studio/">Live demo →</a><br>
 <sub><b>JavaScript · graph algorithms · OpenAlex API</b></sub>
