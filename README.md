@@ -38,6 +38,13 @@ A workbench for a publication library kept as Obsidian notes: topic clusters (TF
 </tr>
 <tr>
 <td colspan="2" valign="top">
+<h3><a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio">Bittle Studio</a> <sub>· UAntwerp Product Development (TDD)</sub></h3>
+Design, simulate and send motions to a Petoi Bittle robot dog. It has a pose-by-pose motion timeline, a 3D PyBullet physics simulation that runs the firmware's own skills, and a Bluetooth console for the real robot that explains every serial command in plain language. Motions export as shareable packs or Python scripts. I'm the main developer (42 of 48 commits). <a href="https://ua-productdevelopment-tdd.github.io/Bittle_Studio/">Live robot console →</a><br>
+<sub><b>Python · PyBullet · 3D web viewer · Web Bluetooth · robotics education</b></sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph">git-graph: a Claude Code mod</a></h3>
 <a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/claude-git-graph/main/docs/git-graph.svg" alt="Commit graph drawn by the git-graph mod" width="100%"></a>
 Adds two panes to the Claude desktop app: a commit graph of the current repo (branch lanes, worktrees, commit and push) and a portfolio with one activity card per local project. It runs local git only, and its tests run against a mocked engine.<br>
