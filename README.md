@@ -11,7 +11,7 @@ I work at the intersection of **robotics, mechatronics and software**: robot kin
 <table>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio"><img src="assets/bittle.png" alt="3D render of the Petoi Bittle robot dog from its URDF model" width="100%"></a>
+<a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio"><img src="assets/bittle.gif" alt="Animated 3D model of the Petoi Bittle robot dog trotting" width="220" align="left"></a>
 <h3><a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio">Bittle Studio</a> <sub>· UAntwerp Product Development (TDD)</sub></h3>
 Design, simulate and send motions to a Petoi Bittle robot dog. It has a pose-by-pose motion timeline, a 3D PyBullet physics simulation that runs the firmware's own skills, and a Bluetooth console for the real robot that explains every serial command in plain language. Motions export as shareable packs or Python scripts. I'm the main developer (42 of 48 commits). <a href="https://ua-productdevelopment-tdd.github.io/Bittle_Studio/">Live robot console →</a><br>
 <sub><b>Python · PyBullet · 3D web viewer · Web Bluetooth · robotics education</b></sub>
