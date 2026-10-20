@@ -36,4 +36,12 @@ A workbench for a publication library kept as Obsidian notes: topic clusters (TF
 <sub><b>JavaScript · graph algorithms · OpenAlex API</b></sub>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<h3><a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph">git-graph: a Claude Code mod</a></h3>
+<a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/claude-git-graph/main/docs/git-graph.svg" alt="Commit graph drawn by the git-graph mod" width="100%"></a>
+Adds two panes to the Claude desktop app: a commit graph of the current repo (branch lanes, worktrees, commit and push) and a portfolio with one activity card per local project. It runs local git only, and its tests run against a mocked engine.<br>
+<sub><b>TypeScript · TSX · SVG rendering · Claude Code mod API</b></sub>
+</td>
+</tr>
 </table>
