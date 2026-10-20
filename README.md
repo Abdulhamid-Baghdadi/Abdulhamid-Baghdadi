@@ -101,8 +101,8 @@ Pendulum on a spring-suspended mass: a 2-DOF multibody model derived with Newton
 <td width="50%" valign="top">
 <a href="https://github.com/Abdulhamid-Baghdadi/eda-format-converter"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/eda-format-converter/main/docs/demo.gif" alt="An Eagle board converted to KiCad in the browser, source and result side by side" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/eda-format-converter">EDA Format Converter</a></h3>
-Converts PCB boards, symbols and footprints between KiCad, Eagle and EasyEDA in any direction, with source and result previewed side by side and a report of anything approximated. Runs in the browser, so no files are uploaded. Checked with KiCad's own DRC and Eagle importer. <a href="https://abdulhamid-baghdadi.github.io/eda-format-converter/">Live app →</a><br>
-<sub><b>TypeScript · Vite · SVG · KiCad / Eagle / EasyEDA formats · Vitest</b></sub>
+Converts schematics, PCB boards, symbols and footprints between KiCad, Eagle and EasyEDA in any direction, and from Altium, with source and result previewed side by side and a report of anything approximated. Runs in the browser, so no files are uploaded. Checked against KiCad's own DRC, netlists and importers. <a href="https://abdulhamid-baghdadi.github.io/eda-format-converter/">Live app →</a><br>
+<sub><b>TypeScript · Vite · SVG · KiCad / Eagle / EasyEDA / Altium formats · Vitest</b></sub>
 </td>
 </tr>
 </table>
