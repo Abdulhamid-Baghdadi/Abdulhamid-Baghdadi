@@ -67,7 +67,7 @@ A workbench for a publication library kept as Obsidian notes: topic clusters (TF
 <td width="50%" valign="top">
 <a href="https://github.com/Abdulhamid-Baghdadi/robot-kinematics-four-robots"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/robot-kinematics-four-robots/main/docs/images/3d-robot.gif" alt="Animated delta robot following a circular path" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/robot-kinematics-four-robots">Robot Kinematics: Four Small Robots</a></h3>
-Closed-form forward and inverse kinematics for a five-bar, a delta, an articulated arm and a SCARA robot from a 2021 team project. Ported to Python 3, with round-trip tests (which found and fixed two IK bugs) and an animation per robot.<br>
+Closed-form forward and inverse kinematics for a five-bar, a delta, an articulated arm and a SCARA robot from a 2021 team project. Ported to Python 3, with round-trip tests (which found and fixed two IK bugs) and an animation per robot. <a href="https://abdulhamid-baghdadi.github.io/robot-kinematics-four-robots/">Interactive demo →</a><br>
 <sub><b>Python · kinematics · pytest · matplotlib</b></sub>
 </td>
 <td width="50%" valign="top">
