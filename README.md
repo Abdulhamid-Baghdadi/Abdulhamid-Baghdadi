@@ -2,7 +2,7 @@
 
 I work at the intersection of **robotics, mechatronics and software**: robot kinematics and simulation in ROS, search and AI in logic programming, and browser tools that make research work reproducible.
 
-**Tech:** C++ · Python · ROS · URDF / RViz · Arduino · Prolog · JavaScript · Git
+**Tech:** C++ · Python · Java · JavaScript · KiCad · ROS · SysML
 
 ---
 
@@ -11,7 +11,7 @@ I work at the intersection of **robotics, mechatronics and software**: robot kin
 <table>
 <tr>
 <td width="240" valign="middle" align="center">
-<a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio"><img src="assets/bittle.gif" alt="Animated 3D model of the Petoi Bittle robot dog trotting" width="220"></a>
+<a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio"><img src="assets/bittle.gif" alt="Bittle Studio's 3D model of the Petoi Bittle trotting with Petoi's own gait data" width="220"></a>
 </td>
 <td valign="top">
 <h3><a href="https://github.com/UA-ProductDevelopment-TDD/Bittle_Studio">Bittle Studio</a> <sub>· UAntwerp Product Development (TDD)</sub></h3>
