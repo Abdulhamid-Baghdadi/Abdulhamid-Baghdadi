@@ -71,6 +71,10 @@ Closed-form forward and inverse kinematics for a five-bar, a delta, an articulat
 <sub><b>Python · kinematics · pytest · matplotlib</b></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/Abdulhamid-Baghdadi/turtlebot-maze-chase"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/turtlebot-maze-chase/main/docs/preview.gif" alt="TurtleBot hunter chasing fleeing robots through a maze in RViz" width="100%"></a>
+<h3><a href="https://github.com/Abdulhamid-Baghdadi/turtlebot-maze-chase">TurtleBot Maze Chase (ROS + Gazebo)</a></h3>
+A hunter TurtleBot chases <i>n</i> robots through a maze: breadth-first search path planning to the nearest prey, prey that flee to another quadrant, and caught robots removed from Gazebo. Team project with Moritz Abdank.<br>
+<sub><b>C++ · ROS Melodic · Gazebo · path planning</b></sub>
 </td>
 </tr>
 </table>
