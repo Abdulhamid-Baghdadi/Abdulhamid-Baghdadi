@@ -30,7 +30,7 @@ A KiCad add-on: search JLCPCB/LCSC parts in an EasyEDA-style picker from the PCB
 <sub><b>Python · KiCad plugin + IPC API · wxPython · easyeda2kicad</b></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Abdulhamid-Baghdadi/scoping-review-workbench"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/scoping-review-workbench/main/docs/screenshot.png" alt="Scoping Review Workbench screenshot" width="100%"></a>
+<a href="https://github.com/Abdulhamid-Baghdadi/scoping-review-workbench"><img src="assets/scoping-review-cycle.gif" alt="The five phases of a scoping review in the workbench: plan, find, select, chart, report" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/scoping-review-workbench">Scoping Review Workbench</a></h3>
 A browser app that guides a PRISMA-ScR scoping review from the first idea to the report. Every review stays a plain folder on your own PC. <a href="https://abdulhamid-baghdadi.github.io/scoping-review-workbench/">Live demo →</a><br>
 <sub><b>JavaScript · offline browser app · Obsidian</b></sub>
