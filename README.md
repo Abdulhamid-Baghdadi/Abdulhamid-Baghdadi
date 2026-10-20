@@ -24,16 +24,16 @@ Design, simulate and send motions to a Petoi Bittle robot dog. It has a pose-by-
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker/main/docs/images/demo.gif" alt="Searching an LCSC part from KiCad's schematic editor and placing it on the sheet" width="100%"></a>
+<h3><a href="https://github.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker">KiCad JLCPCB Part Picker</a></h3>
+A KiCad add-on: search JLCPCB/LCSC parts in an EasyEDA-style picker from the PCB and schematic editors, import symbol, footprint and 3D model into your library (checked pin to pad), and place the part on the board or schematic. <a href="https://github.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker/releases/latest">Download →</a><br>
+<sub><b>Python · KiCad plugin + IPC API · wxPython · easyeda2kicad</b></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/Abdulhamid-Baghdadi/scoping-review-workbench"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/scoping-review-workbench/main/docs/screenshot.png" alt="Scoping Review Workbench screenshot" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/scoping-review-workbench">Scoping Review Workbench</a></h3>
 A browser app that guides a PRISMA-ScR scoping review from the first idea to the report. Every review stays a plain folder on your own PC. <a href="https://abdulhamid-baghdadi.github.io/scoping-review-workbench/">Live demo →</a><br>
 <sub><b>JavaScript · offline browser app · Obsidian</b></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/claude-git-graph/main/docs/git-graph.svg" alt="Commit graph drawn by the git-graph mod" width="100%"></a>
-<h3><a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph">git-graph: a Claude Code mod</a></h3>
-Adds two panes to the Claude desktop app: a commit graph of the current repo (branch lanes, worktrees, commit and push) and a portfolio with one activity card per local project. It runs local git only, and its tests run against a mocked engine.<br>
-<sub><b>TypeScript · TSX · SVG rendering · Claude Code mod API</b></sub>
 </td>
 </tr>
 <tr>
@@ -75,6 +75,14 @@ Closed-form forward and inverse kinematics for a five-bar, a delta, an articulat
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/turtlebot-maze-chase">TurtleBot Maze Chase (ROS + Gazebo)</a></h3>
 A hunter TurtleBot chases <i>n</i> robots through a maze: breadth-first search path planning to the nearest prey, prey that flee to another quadrant, and caught robots removed from Gazebo. Team project with Moritz Abdank.<br>
 <sub><b>C++ · ROS Melodic · Gazebo · path planning</b></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/claude-git-graph/main/docs/git-graph.svg" alt="Commit graph drawn by the git-graph mod" width="100%"></a>
+<h3><a href="https://github.com/Abdulhamid-Baghdadi/claude-git-graph">git-graph: a Claude Code mod</a></h3>
+Adds two panes to the Claude desktop app: a commit graph of the current repo (branch lanes, worktrees, commit and push) and a portfolio with one activity card per local project. It runs local git only, and its tests run against a mocked engine.<br>
+<sub><b>TypeScript · TSX · SVG rendering · Claude Code mod API</b></sub>
 </td>
 </tr>
 </table>
