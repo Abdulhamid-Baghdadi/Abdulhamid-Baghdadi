@@ -44,10 +44,10 @@ Five-bar parallel robot: forward and inverse kinematics, a Shapely collision che
 <sub><b>C++ · Python · ROS Melodic · Arduino</b></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Abdulhamid-Baghdadi/megaminx-solver-prolog"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/megaminx-solver-prolog/main/docs/images/special-moves.png" alt="Megaminx special moves" width="100%"></a>
+<a href="https://github.com/Abdulhamid-Baghdadi/megaminx-solver-prolog"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/megaminx-solver-prolog/main/docs/images/gui.png" alt="3D web GUI of the Megaminx solver" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/megaminx-solver-prolog">Megaminx Solver (Prolog)</a></h3>
-Solves the 12-faced Megaminx puzzle with a staged breadth-first search over 116 sub-goals, macro operators that encode human algorithms, and a heuristic for informed search.<br>
-<sub><b>Prolog · search algorithms · AI</b></sub>
+Solves the 12-faced Megaminx puzzle with a staged breadth-first search over 116 sub-goals and macro operators that encode human algorithms. Now with a 3D web GUI that runs the solver in the browser. <a href="https://abdulhamid-baghdadi.github.io/megaminx-solver-prolog/">Live demo →</a><br>
+<sub><b>Prolog · search algorithms · JavaScript · Three.js</b></sub>
 </td>
 </tr>
 <tr>
