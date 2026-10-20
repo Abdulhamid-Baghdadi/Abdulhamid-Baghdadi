@@ -95,7 +95,7 @@ Pose estimation for a wheeled ROSbot: a linear KF and an EKF linearised with Jac
 <td width="50%" valign="top">
 <a href="https://github.com/Abdulhamid-Baghdadi/two-mass-oscillator-modsim"><img src="https://github.com/Abdulhamid-Baghdadi/two-mass-oscillator-modsim/raw/main/docs/pendulum_spring.gif" alt="Pendulum swinging on a spring-suspended mass, simulated" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/two-mass-oscillator-modsim">Two-Mass Oscillator: Multibody Simulation</a></h3>
-Pendulum on a spring-suspended mass: a 2-DOF multibody model derived with Newton and Lagrange, built in Simulink and Simscape Multibody, and reproduced in Python (sympy/scipy). Group project, FH Wiener Neustadt.<br>
+Pendulum on a spring-suspended mass: a 2-DOF multibody model derived with Newton and Lagrange, built in Simulink and Simscape Multibody, and reproduced in Python (sympy/scipy). Group project, FH Technikum Wien.<br>
 <sub><b>MATLAB · Simscape · Python · Multibody dynamics</b></sub>
 </td>
 <td width="50%" valign="top">
