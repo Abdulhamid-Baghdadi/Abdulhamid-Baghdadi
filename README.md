@@ -52,7 +52,7 @@ Solves the 12-faced Megaminx puzzle with a staged breadth-first search over 116 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Abdulhamid-Baghdadi/robot-milling-dust-extractor"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/robot-milling-dust-extractor/main/media/printed-prototype.jpg" alt="3D-printed motorised dust extractor prototype" width="100%"></a>
+<a href="https://github.com/Abdulhamid-Baghdadi/robot-milling-dust-extractor"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/robot-milling-dust-extractor/main/media/cad-overview.jpg" alt="CAD model of the motorised dust extractor with numbered components" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/robot-milling-dust-extractor">Robot Milling Dust Extractor</a></h3>
 A motorised dust and chip extractor for a KUKA robot milling cell. The robot sets the inlet height to match the tool length, and load cells make it stop or retract on collision. Solo master's project: SolidWorks design, 3D printing, electronics and ESP32/Arduino firmware.<br>
 <sub><b>ESP32 · Arduino · HX711 load cells · SolidWorks · Eagle</b></sub>
