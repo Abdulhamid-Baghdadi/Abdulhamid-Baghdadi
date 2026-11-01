@@ -23,6 +23,19 @@ Design, simulate and send motions to a Petoi Bittle robot dog. It has a pose-by-
 
 <table>
 <tr>
+<td width="240" valign="middle" align="center">
+<a href="https://abdulhamid-baghdadi.github.io/bachelor-lectures-aid-kit/"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/bachelor-lectures-aid-kit/main/docs/light.png" alt="The aid kit's home page: one card per lab, each with a picture of the lab" width="220"></a>
+</td>
+<td valign="top">
+<h3><a href="https://github.com/Abdulhamid-Baghdadi/bachelor-lectures-aid-kit">Bachelor Lectures Aid Kit</a> <sub>· TU Wien, Electrical Engineering and Information Technology</sub></h3>
+Interactive browser labs for the Bachelor courses I took at TU Wien from 2014 to 2019: electrodynamics, automation, signals and systems, semiconductors, relativity, telecommunications, power engineering and measurement. Move a slider and watch the equation work, then practise with exercises from the course. <a href="https://abdulhamid-baghdadi.github.io/bachelor-lectures-aid-kit/">Open the labs →</a><br>
+<sub><b>JavaScript · offline browser app · MathML · engineering education</b></sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker/main/docs/images/demo.gif" alt="Searching an LCSC part from KiCad's schematic editor and placing it on the sheet" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker">KiCad JLCPCB Part Picker</a></h3>
