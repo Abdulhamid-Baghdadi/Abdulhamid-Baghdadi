@@ -24,7 +24,7 @@ Design, simulate and send motions to a Petoi Bittle robot dog. It has a pose-by-
 <table>
 <tr>
 <td width="240" valign="middle" align="center">
-<a href="https://abdulhamid-baghdadi.github.io/bachelor-lectures-aid-kit/"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/bachelor-lectures-aid-kit/main/docs/light.png" alt="The aid kit's home page: one card per lab, each with a picture of the lab" width="220"></a>
+<a href="https://abdulhamid-baghdadi.github.io/bachelor-lectures-aid-kit/"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/bachelor-lectures-aid-kit/main/docs/tour.gif" alt="A tour of the labs: each lab's animation in turn" width="220"></a>
 </td>
 <td valign="top">
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/bachelor-lectures-aid-kit">Bachelor Lectures Aid Kit</a> <sub>· TU Wien, Electrical Engineering and Information Technology</sub></h3>
@@ -37,7 +37,7 @@ Interactive browser labs for the Bachelor courses I took at TU Wien from 2014 to
 <table>
 <tr>
 <td width="240" valign="middle" align="center">
-<a href="https://abdulhamid-baghdadi.github.io/master-lectures-aid-kit/"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/master-lectures-aid-kit/main/docs/home.png" alt="The aid kit's home page: one card per course lab" width="220"></a>
+<a href="https://abdulhamid-baghdadi.github.io/master-lectures-aid-kit/"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/master-lectures-aid-kit/main/docs/tour.gif" alt="A tour of the labs: each lab's animation in turn" width="220"></a>
 </td>
 <td valign="top">
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/master-lectures-aid-kit">Master Lectures Aid Kit</a> <sub>· FH Technikum Wien, Mechatronics and Robotics</sub></h3>
