@@ -36,6 +36,19 @@ Interactive browser labs for the Bachelor courses I took at TU Wien from 2014 to
 
 <table>
 <tr>
+<td width="240" valign="middle" align="center">
+<a href="https://abdulhamid-baghdadi.github.io/master-lectures-aid-kit/"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/master-lectures-aid-kit/main/docs/home.png" alt="The aid kit's home page: one card per course lab" width="220"></a>
+</td>
+<td valign="top">
+<h3><a href="https://github.com/Abdulhamid-Baghdadi/master-lectures-aid-kit">Master Lectures Aid Kit</a> <sub>· FH Technikum Wien, Mechatronics and Robotics</sub></h3>
+Interactive browser labs for the master's courses I took at FH Technikum Wien from 2020: industrial handling, robot kinematics, mobile robots and vision, sensor systems and finite elements. Move a slider and watch the equation work, then practise with exercises from the course. <a href="https://abdulhamid-baghdadi.github.io/master-lectures-aid-kit/">Open the labs →</a><br>
+<sub><b>JavaScript · offline browser app · MathML · engineering education</b></sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker"><img src="https://raw.githubusercontent.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker/main/docs/images/demo.gif" alt="Searching an LCSC part from KiCad's schematic editor and placing it on the sheet" width="100%"></a>
 <h3><a href="https://github.com/Abdulhamid-Baghdadi/kicad-jlcpcb-part-picker">KiCad JLCPCB Part Picker</a></h3>
